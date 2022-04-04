@@ -53,7 +53,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [🐼 APIs](#-apis) <br>
 [🦬 ASP.net](#-asp-net) <br>
 [🦈 AWS Cloud](#-aws-cloud) <br>
-[🗺️ Back-end roadmap](#-back-end-roadmap) <br>
+[🗺️ Back-end roadmap](#%EF%B8%8F-back-end-roadmap) <br>
 [🦝 C](#-c) <br>
 [🐷 C#](#-c-2) <br>
 [🐮 C++](#-c-1) <br>
